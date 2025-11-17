@@ -44,6 +44,6 @@ Basketball | Playing Bass | Board Games | Video Games | Collecting Vinyls
 
 ## Contact Me
 
-📧 caugheyaidan2@gmail.com  
+caugheyaidan2@gmail.com  
 503-314-8224  
 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
