@@ -1,4 +1,4 @@
-![FrogHop Demo](https://github.com/AidanCaughey1/AidanCaughey1/raw/main/media/FrogHop.gif) //
+![FrogHop Demo](https://github.com/AidanCaughey1/AidanCaughey1/raw/main/media/FrogHop.gif)  
 #Hi, I'm Aidan Caughey
 I am a **Computer Science student at Oregon State University**, passionate about software development, game development, automating test solutions, and building scalable web applications. I enjoy creating projects that combine problem-solving, clean code, and interactive experiences.
 
