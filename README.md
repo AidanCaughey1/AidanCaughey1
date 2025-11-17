@@ -39,7 +39,7 @@ Built a website using JavaScript, Handlebars, CSS, and SQL to manage gaming tour
 
 ## Hobbies
 
-Basketball | Playing Bass | Board Games | Video Games | Collecting Vinyls
+Basketball | Playing Bass | Board Games | Video Games | Collecting Vinyls | Pixel Art
 
 ---
 
